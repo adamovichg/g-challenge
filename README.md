@@ -1,19 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prepare a New Bonus Calculator Tool</title>
-    <style>
-        table, th, td {
-            border: 1px solid black;
-            border-collapse: collapse;
-            padding: 8px;
-        }
-    </style>
-</head>
-<body>
 
+<h1>Bonus Calculator challenge</h1>
 <h2>Objective: Prepare a New Bonus Calculator Tool</h2>
 <p>The goal is to develop a Bonus Calculator, an integral tool designed to guide online casino players in selecting the most advantageous bonus according to specific conditions or requirements.</p>
 <hr>
