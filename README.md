@@ -58,7 +58,7 @@
         <li>Create a WordPress web-service (in the form of a WordPress plugin) that returns bonus data in JSON format to be shown in the results section of the PHP form.</li>
         <li>Develop and integrate a JavaScript function that gets triggered when the "Calculate" button is clicked. This should invoke the WordPress web service from the previous step and showcase the results in the aforementioned form.</li>
     </ol>
-
+<p>
     <h3>Helpful Hints:</h3>
     <ol>
         <li>Utilize your Linux machine or opt for WSL if on Windows.</li>
