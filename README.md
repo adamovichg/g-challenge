@@ -51,8 +51,6 @@
         <td>Minimum deposit needed to get the bonus</td>
     </tr>
 </table>
-<hr>
-
     <h3>Technical Steps:</h3>
     <ol>
         <li>Set up your WordPress development environment with Docker and Docker Compose, import the <code>g_bonuses</code> table into the database, and populate it using the provided SQL script.</li>
