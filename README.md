@@ -51,7 +51,7 @@
         <td>Minimum deposit needed to get the bonus</td>
     </tr>
 </table>
-    <h3>Technical Steps:</h3>
+    <h3>Your tasks:</h3>
     <ol>
         <li>Set up your WordPress development environment with Docker and Docker Compose, import the <code>g_bonuses</code> table into the database, and populate it using the provided SQL script.</li>
         <li>Design a WordPress (or pure PHP) form according to the sections illustrated in the Figma file.</li>
